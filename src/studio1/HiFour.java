@@ -20,6 +20,7 @@ public class HiFour {
 		//
 		// Say hello to the names in s0 through s3.
 		//
-
+		boolean isOrdered = (x < y && y < z)
+System.out.print("Greetings " + s0 + ", " + s1 + ", " + s2 + ", and " + s3);
 	}
 }
